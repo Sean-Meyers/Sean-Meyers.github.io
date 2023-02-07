@@ -1,6 +1,7 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
 SITEURL = ''
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
