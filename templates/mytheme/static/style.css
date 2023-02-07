@@ -1,6 +1,6 @@
 html, body {
     margin: auto;
-    border: 0;
+    border: 4mm ridge rgba(211, 220, 50, .6);
     font-size: 125%;
     background-color: #252429;
     color: #ece3d8;
