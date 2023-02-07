@@ -3,10 +3,11 @@ html, body {
     border: 0;
     font-size: 125%;
     background-color: #252429;
-    color: #ece3d8;
-  }
-
-  a {
+    /* color: #ece3d8; */
     font-family: "Babylonica";
     color: rgb(126, 102, 223);
   }
+
+  /* a {
+    
+  } */
